@@ -1,6 +1,6 @@
 # Photography Page
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](screenshot.PNG)
 
 ## Description
 
